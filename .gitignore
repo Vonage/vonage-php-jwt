@@ -1,3 +1,4 @@
 vendor/
 .php-version
 composer.lock
+.phpunit.cache
