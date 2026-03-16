@@ -8,7 +8,7 @@ JWT Client Library for PHP
 
 <img src="vonage_logo.png" alt="Vonage logo" />
 
-*This library requires a minimum PHP version of 8.0*
+*This library requires a minimum PHP version of 8.1*
 
 This is the PHP library for generating JWTs to use Vonage's API. To use this, you'll need a Vonage account. 
 Sign up [for free at vonage.com/dashboard][signup].
